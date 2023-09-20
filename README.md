@@ -23,4 +23,7 @@ or
 npx react-native run-ios
 
 
+https://github.com/Chaishtabassi/Cryptocurrency/assets/95671276/fa4263a0-2192-4440-939c-73ac1c1a4317
+
+
 
